@@ -8,3 +8,7 @@
 
  git config --global alias.ci "commit -a -m"
 
+
+ 	modify the default editor of git
+
+git config --global core.editor vim
