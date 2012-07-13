@@ -1,0 +1,10 @@
+#this is the something about my study of git
+
+ 	 git config file location
+
+  ~/gitconfig
+
+ 	 make alias of a command
+
+ git config --global alias.ci "commit -a -m"
+
