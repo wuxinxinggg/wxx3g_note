@@ -1,0 +1,25 @@
+#something about stunnel
+
+	install stunnel on stunnel4
+
+sudo apt-get install stunnel4
+
+	Enabling stunnel
+
+sudo vim /etc/default/stunnel4;and then change the line,
+
+    ENABLED=0
+
+    to
+
+    ENABLED=1
+
+    	Create your certificate with openssl(Optional)
+
+openssl req -new mail.pem -keyout mail.pem -nodes -x509 -days 365
+	
+	Start your stunnel server
+
+sudo /etc/init.d/stunnel4/start
+
+	

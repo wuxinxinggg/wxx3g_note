@@ -1,0 +1,7 @@
+#This file is something about terminal
+
+	open the vi mode in terminal
+
+set -o vi
+
+	

@@ -1,0 +1,21 @@
+#my sublime text plugin
+
+#a plugin to highlight the bracket
+
+	Bracket Highlighter  
+
+#a plugin create a new file with directory and the file
+
+	advancenewfile
+
+#a plugin make plugin install easily
+
+	package control
+
+#plugin for running shell command in the sublime test directly
+
+	shell turtlestein
+
+#a theme is good to user
+
+	soda
