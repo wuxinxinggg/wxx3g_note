@@ -12,3 +12,13 @@
  	modify the default editor of git
 
 git config --global core.editor vim
+
+add a screenshot of the project
+
+	add the line in the README.md
+
+	[!youimage](http://github.com/yourname/your-repository/raw/master/your-image)
+
+	if your image is not in the root of your project,you should tell git the full root of you image
+
+
